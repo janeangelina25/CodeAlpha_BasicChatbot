@@ -1,7 +1,7 @@
 def chatbot(user_input):
 
     user_input=user_input.lower()
-    #predefined responses
+    
     if(user_input=="hi"):
         return "Hello"
     elif(user_input=="how are you?" or user_input=="how are you"):
